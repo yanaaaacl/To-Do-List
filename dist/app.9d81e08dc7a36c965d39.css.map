@@ -1,0 +1,1 @@
+{"version":3,"file":"app.9d81e08dc7a36c965d39.css","mappings":"AAGA,KACE,cAJU,CAKV,mBAJW,C","sources":["webpack://webpack-demo/./src/style.scss"],"sourcesContent":["$font-size: 1rem;\r\n$font-color: lch(28 99 35);\r\n\r\nhtml {\r\n  font-size: $font-size;\r\n  color: $font-color;\r\n}"],"names":[],"sourceRoot":""}
